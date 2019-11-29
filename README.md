@@ -2,7 +2,7 @@
 
 How to run code 
 
-open terminal\n
+open terminal\
 Now go to folder where the programs are stored.
 complie the program using gcc -o nameofchoice trabf.c -lpthread -Wall
 Then type ./nameofchoice and press enter
